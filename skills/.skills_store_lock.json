@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "news-aggregator-skill": {
+      "name": "News Aggregator Skill",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=news-aggregator-skill",
+      "source": "skillhub",
+      "version": "0.1.0"
+    }
+  }
+}
